@@ -63,7 +63,7 @@ def search():
 #welcome
 def welcome():
         wel = """
-
+                                                  \033[1;91m
  Love──████████──████████─Sty home stay sefty \033[1;91m
  hate──██▒▒▒▒██──██▒▒▒▒██─learn code     \033[1;91m
 late ──████▒▒██──██▒▒████─No one can hack fb     \033[1;91m
