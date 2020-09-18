@@ -6,7 +6,25 @@ import mechanize
 import cookielib
 import random
 
-
+#welcome
+def welcome():
+        wel = """
+                                                  \033[1;91m
+ Love──████████──████████─Sty home stay sefty \033[1;91m
+ hate──██▒▒▒▒██──██▒▒▒▒██─learn code     \033[1;91m
+late ──████▒▒██──██▒▒████─No one can hack fb     \033[1;91m
+ nate────██▒▒▒▒██▒▒▒▒██───Easy to hack Fb      \033[1;91m
+ mate────████▒▒▒▒▒▒████───Hello World     \033[1;91m
+ wast──────██▒▒▒▒▒▒██─────Try Again      \033[1;91m
+gast ────████▒▒▒▒▒▒████───DevilanD      \033[1;91m
+  cest───██▒▒▒▒██▒▒▒▒██───Never give up     \033[1;91m
+ nest──████▒▒██──██▒▒████─Nawazuddin    \033[1;91m
+ rest──██▒▒▒▒██──██▒▒▒▒██─create good wordlist      \033[1;91m
+ best──████████──████████─Joy Aai ASSAM      \033[1;91m
+\033[1;97m╔═════════════════════════════════════════════════════════════╗
+\033[1;97m║\033[1;93m* \033[1;97mAuthor: \033[1;91m: \033[1;96m[DEVILAND]   \033[1;97m                                    ║
+\033[1;97m║\033[1;93m* \033[1;97mNotice \033[1;91m : \033[1;96m contact me to learn termux/linux. \033[1;97m              ║
+\033[1;97m╚═════════════════════════════════════════════════════════════╝"""
 
 
 email = str(raw_input("FB tergat ID : "))
